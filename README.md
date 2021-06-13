@@ -10,7 +10,7 @@ What I learned
 - How to add background music and sound effects
 - How to implement a spawning mechanism for enemies
 - How to implement a collision mechanism
-- How to control the frames per second
+- How to control the frame rate
 - Purpose of classes
 - What class inheritance is
 - How to create instances of classes
